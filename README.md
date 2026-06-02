@@ -47,22 +47,27 @@ Cada carpeta dentro de este repositorio representa una unidad de competencia del
 ### 🚀 1. Examen Contra Reloj — *Modelado Logístico Base*
 * **Descripción:** Arquitectura automatizada orientada a la cadena de suministro que gestiona las dimensiones de paquetes pesados, evalúa su nivel de fragilidad ante traslados y simula la telemetría de hardware a través de sensores virtuales.
 * **Pilares POO Aplicados:** Declaración de clases, instanciación de objetos independientes en ejecución y manipulación de propiedades tipadas estrictas.
-* **📂 Ubicación:** `[Enlace a tu carpeta del proyecto]`
+* **📂 Ubicación:** https://github.com/252310937-ops/PortafolioPOO_EsquivelTrejo/tree/98f10f4bd6d098746703e6b94d2a066ddb3c0131/Proyecto_01_ExamenContraReloj
 
 ### 🔋 2. Monitor Energético — *Cálculo y Precisión Matemática*
 * **Descripción:** Aplicación web interactiva que calcula el consumo energético total en Centros de Datos a través del método numérico de la Regla del Trapecio, desplegando un análisis comparativo que demuestra cómo influye el incremento de intervalos ($n$) en la reducción del margen de error.
 * **Pilares POO Aplicados:** Encapsulamiento con miembros privados, modularización por medio de *Namespaces* profesionales y control robusto ante colisiones mediante bloques `try-catch`.
-* **📂 Ubicación:** `[Enlace a tu carpeta del proyecto]`
+* **📂 Ubicación:** https://github.com/252310937-ops/PortafolioPOO_EsquivelTrejo/tree/98f10f4bd6d098746703e6b94d2a066ddb3c0131/Proyecto_02_Actividad%20de%20evaluacion%20C2%20-%20Consumo%20energetico%20servidores
 
 ### 👥 3. Gestión de Usuarios — *Control de Roles por Consola*
 * **Descripción:** Sistema interactivo programado en Python que despliega un menú interactivo capaz de administrar los perfiles de Administradores, Clientes e Invitados, resolviendo de forma segura el nivel de acceso permitido para cada rol.
 * **Pilares POO Aplicados:** Herencia clásica extensible utilizando constructores basados en `super()`, inspección de tipos mediante `isinstance` y Polimorfismo por sobrescritura de métodos.
-* **📂 Ubicación:** `[Enlace a tu carpeta del proyecto]`
+* **📂 Ubicación:** https://github.com/252310937-ops/PortafolioPOO_EsquivelTrejo/tree/98f10f4bd6d098746703e6b94d2a066ddb3c0131/Proyecto_03_%20Actividad%20de%20evaluacion%20c3%20-%20Usuarios
 
 ### 🗃️ 4. Gestión de Bitácoras — *Persistencia Local en Texto*
 * **Descripción:** Módulo web portátil dedicado al registro continuo de auditoría de actividades de usuario. El sistema captura las variables del servidor, intercepta y mitiga vulnerabilidades Cross-Site Scripting (XSS) y escribe en texto plano el histórico de eventos.
 * **Pilares POO Aplicados:** Manipulación de variables indexadas con arreglos unidimensionales dinámicos, sanitización avanzada de variables (`htmlspecialchars`) e Input/Output (`I/O`) nativo.
-* **📂 Ubicación:** `[Enlace a tu carpeta del proyecto]`
+* **📂 Ubicación:** https://github.com/252310937-ops/PortafolioPOO_EsquivelTrejo/tree/98f10f4bd6d098746703e6b94d2a066ddb3c0131/Proyecto_05_%20Actividad%20Integradora%20-%20Gestion%20de%20Bitacoras%20en%20archivos%20de%20texto
+
+### 📊 5. Arreglos Unidimensionales — *Procesamiento de Inventario en Lote*
+* **Descripción:** Aplicación modular para el comercio electrónico que recolecta múltiples registros de nombres y precios de mercancías a través de variables indexadas en formularios web, evaluando de forma automatizada totales de venta, promedios y extremos numéricos.
+* **Concepto clave:** Transferencia de colecciones por HTTP POST, indexación paralela de datos y optimización analítica mediante funciones nativas de arreglos (`array_sum`, `max`, `min`).
+* **📂 Ubicación:** https://github.com/252310937-ops/PortafolioPOO_EsquivelTrejo/tree/98f10f4bd6d098746703e6b94d2a066ddb3c0131/Proyecto_04_Actividad%20integradora%20arreglos%20unidimensionales
 
 ---
 
